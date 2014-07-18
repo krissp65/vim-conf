@@ -1,4 +1,4 @@
 vim-conf
 ========
 
-My vim configuration with favorit plugins
+My vim configuration with favorite plugins.
